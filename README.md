@@ -15,7 +15,7 @@ At this point, you will have a visual of the program.
 
 ### Handling
 - Write down a number between 0 and 99 and click on "Afficher le couplet !" to make the program work.
-- It is compulsory to write a number between 0 and 99. This number cannot be higher or lower than that and it has to be a number. If you do not take this into consideration while using the program, a recall message will appear on your screen.
+- It is _compulsory_ to write a number between 0 and 99. This number cannot be higher or lower than that and it has to be a number. If you do not take this into consideration while using the program, a recall message will appear on your screen.
 
 Now it is your turn to test the program!
 
