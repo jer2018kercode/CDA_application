@@ -10,7 +10,7 @@
 - Launch the "shots.php" file with PHP on your web browser.
 
 At this point, you will have a visual of the program.
-![99]https://github.com/jer2018kercode/CDA_application/issues/1#issue-506229483
+https://github.com/jer2018kercode/CDA_application/issues/1#issue-506229483
 
 **Handling**
 - Write down a number between 0 and 99 and click on "Afficher le couplet !" to make the program work.
