@@ -10,6 +10,7 @@
 - Launch the "shots.php" file with PHP on your web browser.
 
 At this point, you will have a visual of the program.
+
 ![99](https://user-images.githubusercontent.com/44773431/66707109-06d5b400-ed3c-11e9-98d8-7af39dc978bb.JPG)
 
 **Handling**
